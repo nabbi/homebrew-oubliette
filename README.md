@@ -17,3 +17,8 @@ Or in one step: `brew install nabbi/oubliette/route-summarization`.
 | Formula | Description |
 |---|---|
 | [route-summarization](Formula/route-summarization.rb) | `aggregate-cidr`: aggregate IPv4/IPv6 CIDR prefixes into their minimal covering set ([source](https://github.com/nabbi/route-summarization-rs)) |
+
+## License
+
+The formulae in this tap are [BSD-2-Clause](LICENSE). Each packaged project
+keeps its own license, listed in its formula.
