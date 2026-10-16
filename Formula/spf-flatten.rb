@@ -1,8 +1,8 @@
 class SpfFlatten < Formula
   desc "Flatten SPF records to stay within the RFC 7208 DNS lookup and size limits"
   homepage "https://github.com/nabbi/spf-flatten"
-  url "https://github.com/nabbi/spf-flatten/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "2c2a8d179c434d2677071ec8e50783f58816fe93f1bb071ef8eb80e36063b98c"
+  url "https://github.com/nabbi/spf-flatten/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "c8718a95289388b810ecde2d679c0a18c3374db93e5045a8f5ef9383908e9c24"
   license "GPL-3.0-or-later"
   head "https://github.com/nabbi/spf-flatten.git", branch: "main"
 
